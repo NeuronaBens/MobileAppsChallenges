@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+</resources>
